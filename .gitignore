@@ -1,0 +1,5 @@
+# Ignore the backups directory
+backups/
+
+# Ignore the node_modules directory
+node_modules/
