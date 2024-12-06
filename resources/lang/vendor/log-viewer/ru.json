@@ -1,0 +1,13 @@
+{
+    "Date": "Date",
+    "The list of logs is empty!": "The list of logs is empty!",
+    "All": "All",
+    "Emergency": "Emergency",
+    "Alert": "Alert",
+    "Critical": "Critical",
+    "Error": "Error",
+    "Warning": "Warning",
+    "Notice": "Notice",
+    "Info": "Info",
+    "Debug": "Debug"
+}
